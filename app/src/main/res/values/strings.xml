@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data Management Shared Preferences</string>
+    <string-array name="options">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+</resources>
